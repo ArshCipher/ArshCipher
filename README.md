@@ -2,11 +2,11 @@
 
 # 👋 Hi there, I'm Arshdeep
 
-### **AI/ML Systems Engineer & Full-Stack Developer**
+### **AI/ML Systems Engineer & Post-Quantum Cryptography Researcher**
 
 <p align="center">
   <a href="mailto:arshdeep@ce.du.ac.in"><img src="https://img.shields.io/badge/Email-arshdeep%40ce.du.ac.in-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Healthcare%20Systems-purple?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Post--Quantum%20Crypto%20%7C%20AI%20Systems-purple?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-success?style=flat-square" alt="Status" />
 </p>
 
@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-I design and build production-grade **AI/ML systems**, **federated learning pipelines**, and **real-time distributed applications**. My work bridges the gap between complex machine learning models (computer vision, NLP, forecasting) and robust full-stack software architecture.
+I design and build production-grade **AI/ML architectures**, **post-quantum secure communication protocols**, and **real-time distributed robotics frameworks**. My work spans low-latency C++20 systems engineering, federated medical learning, and quantum-resistant network telemetry.
 
-* 🧠 **Specializations:** Healthcare AI, Federated Learning, Edge Inference, Real-Time Telemetry & Systems Security.
-* 🛠️ **Engineering Principles:** Clean code, modular microservices, asynchronous execution, and evidence-based standards.
-* 💬 **Ask me about:** Medical image classification, DICOM/PACS integrations, multi-agent AI orchestration, and low-latency APIs.
+* 🧠 **Specializations:** Post-Quantum Cryptography (NIST ML-KEM / ML-DSA), UAV Swarm Networks, Healthcare AI & Real-Time Distributed Telemetry.
+* 🛠️ **Engineering Principles:** Clean modular architectures, asynchronous event loops, zero-copy packet serialization, and hardware-validated security.
+* 💬 **Ask me about:** Lattice-based cryptography, D2D swarm routing, federated learning pipelines, and low-level socket programming.
 
 ---
 
@@ -29,15 +29,27 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ArshCipher/AETHER-PQ">🛸 AETHER-PQ</a></h3>
+      <p><b>Post-Quantum Secure UAV Swarm Telemetry & D2D Routing</b></p>
+      <p>Adaptive quantum-resistant communication framework for autonomous drone swarms. Integrates ML-KEM/Kyber hybrid key exchange, ML-DSA digital signatures, and an Adaptive Cryptographic Policy Engine (ACPE) with sub-4.2ms handshake latency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Post--Quantum-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/UAV%20Swarm-2496ED?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/ArshCipher/AyushNetra">🏥 AyushNetra</a></h3>
       <p><b>AI-Enabled Healthcare Ecosystem & Hospital Management</b></p>
       <p>Integrated intelligent healthcare platform delivering multilingual voice EHR in 22 languages, real-time regional disease outbreak forecasting (OutbreakNet), and personalized AYUSH treatment recommendations via federated learning.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Federated%20Learning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Federated%20Learning-4CAF50?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ArshCipher/MedoraAI">🔬 MedoraAI</a></h3>
       <p><b>Hospital-Grade Medical Inference Server</b></p>
@@ -48,8 +60,6 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
         <img src="https://img.shields.io/badge/DICOM%2FHL7-00599C?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ArshCipher/FireWatch">🔥 FireWatch</a></h3>
       <p><b>Firefighter Physiological Telemetry & Safety Platform</b></p>
@@ -60,6 +70,8 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ArshCipher/FinSyncAI">💳 FinSyncAI</a></h3>
       <p><b>Multi-Agent Financial Assistant Chatbot</b></p>
@@ -70,8 +82,6 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
         <img src="https://img.shields.io/badge/LLM%20Agents-8A2BE2?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ArshCipher/logsentry">🛡️ logsentry</a></h3>
       <p><b>Log Monitoring & Security Anomaly Detector</b></p>
@@ -80,16 +90,6 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Security-E53935?style=flat-square" />
         <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ArshCipher/crispscan-port-scanner">⚡ crispscan</a></h3>
-      <p><b>High-Speed Multithreaded Port Scanner</b></p>
-      <p>Low-overhead network auditing tool featuring concurrent port probing, service identification, and socket-level banner grabbing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Networking-2CA5E0?style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket%20API-000000?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -103,11 +103,11 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` • `TypeScript` • `JavaScript` • `C++` • `SQL` • `Bash` |
+| **Languages** | `C++20` • `Python` • `TypeScript` • `JavaScript` • `SQL` • `Bash` |
+| **Cryptography & Security** | `NIST PQC (ML-KEM, ML-DSA)` • `LibOQS` • `OpenSSL 3` • `AES-GCM` • `Network Protocol Engineering` |
 | **AI / Machine Learning** | `PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV` • `Pandas` • `NumPy` • `Federated Learning` |
-| **Web & Backend** | `FastAPI` • `React` • `Node.js` • `Express.js` • `Tailwind CSS` • `Vite` • `REST` • `WebSockets` |
-| **DevOps & Infrastructure** | `Docker` • `Git` • `GitHub Actions` • `Linux` • `PACS/DICOM` • `HL7` |
-| **Databases** | `MongoDB` • `PostgreSQL` • `SQLite` • `Redis` |
+| **Web & Distributed Systems** | `FastAPI` • `React` • `Node.js` • `Express.js` • `Tailwind CSS` • `Vite` • `WebSockets` |
+| **DevOps & Embedded** | `Docker` • `CMake` • `Git` • `GitHub Actions` • `Linux (Ubuntu/Debian)` • `PACS/DICOM` |
 
 </div>
 
@@ -129,5 +129,5 @@ I design and build production-grade **AI/ML systems**, **federated learning pipe
 ---
 
 <div align="center">
-  <sub>Crafted with passion for scalable AI and open source engineering.</sub>
+  <sub>Crafted with passion for post-quantum security, scalable AI, and systems engineering.</sub>
 </div>
